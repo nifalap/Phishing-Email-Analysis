@@ -1,0 +1,5 @@
+# Never commit the raw phishing emails or anything pulled out of them
+*.eml
+*.msg
+samples/
+__pycache__/
